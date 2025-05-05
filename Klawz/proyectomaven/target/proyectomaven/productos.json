@@ -1,0 +1,1201 @@
+[
+    {
+      "id": 1,
+      "name": "K-WayLE VRAI EIFFEL 3.0 UNISEX - Impermeable - blue depht",
+      "category": "hombre",
+      "subcategory": "abrigos",
+      "price": 112.95,
+      "images": [
+        "web/img/productos/Hombre/Abrigos/1.webp",
+        "web/img/productos/Hombre/Abrigos/1_1.webp",
+        "web/img/productos/Hombre/Abrigos/1_2.webp",
+        "web/img/productos/Hombre/Abrigos/1_3.webp"
+      ],
+      "description": "",
+      "featured": false
+    },
+
+    {
+        "id": 2,
+        "name": "Pier One Abrigo corto - black",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/2.webp",
+          "web/img/productos/Hombre/Abrigos/2_1.webp",
+          "web/img/productos/Hombre/Abrigos/2_2.webp",
+          "web/img/productos/Hombre/Abrigos/2_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+      
+      {
+        "id": 3,
+        "name": "Pier One Abrigo clásico - black",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/3.webp",
+          "web/img/productos/Hombre/Abrigos/3_1.webp",
+          "web/img/productos/Hombre/Abrigos/3_2.webp",
+          "web/img/productos/Hombre/Abrigos/3_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 4,
+        "name": "Ombre Abrigo clásico - coffee",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 89.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/4.webp",
+          "web/img/productos/Hombre/Abrigos/4_1.webp",
+          "web/img/productos/Hombre/Abrigos/4_2.webp",
+          "web/img/productos/Hombre/Abrigos/4_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 5,
+        "name": "Urban Classics Abrigo clásico - wolfgrey",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 52.00,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/5.webp",
+          "web/img/productos/Hombre/Abrigos/5_1.webp",
+          "web/img/productos/Hombre/Abrigos/5_2.webp",
+          "web/img/productos/Hombre/Abrigos/5_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 6,
+        "name": "Pier One Gabardina - tan",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/6.webp",
+          "web/img/productos/Hombre/Abrigos/6_1.webp",
+          "web/img/productos/Hombre/Abrigos/6_2.webp",
+          "web/img/productos/Hombre/Abrigos/6_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 7,
+        "name": "Matinique MAMILES - Abrigo corto - walnut",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 129.95,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/7.webp",
+          "web/img/productos/Hombre/Abrigos/7_1.webp",
+          "web/img/productos/Hombre/Abrigos/7_2.webp",
+          "web/img/productos/Hombre/Abrigos/7_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 8,
+        "name": "Matinique MAHARVEY MIDI INNER QUILETED PADDING - Abrigo clásico - walnut",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 212.00,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/8.webp",
+          "web/img/productos/Hombre/Abrigos/8_1.webp",
+          "web/img/productos/Hombre/Abrigos/8_2.webp",
+          "web/img/productos/Hombre/Abrigos/8_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 9,
+        "name": "Ombre Abrigo clásico - grey",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 79.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/9.webp",
+          "web/img/productos/Hombre/Abrigos/9_1.webp",
+          "web/img/productos/Hombre/Abrigos/9_2.webp",
+          "web/img/productos/Hombre/Abrigos/9_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 10,
+        "name": "Pier One Abrigo corto - dark grey",
+        "category": "hombre",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Hombre/Abrigos/10.webp",
+          "web/img/productos/Hombre/Abrigos/10_1.webp",
+          "web/img/productos/Hombre/Abrigos/10_2.webp",
+          "web/img/productos/Hombre/Abrigos/10_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 11,
+        "name": "Tommy Hilfiger SLIM - Polo - desert sky",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 63.95,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/11.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/11_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/11_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/11_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 12,
+        "name": "Calvin Klein MICRO LOGO 2 PACK - Camiseta básica",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 79.95,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/12.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/12_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/12_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/12_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 13,
+        "name": "Tommy Hilfiger CORE STRETCH - Camiseta básica - ybr white",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 33.95,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/13.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/13_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/13_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/13_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 14,
+        "name": "Polo Ralph Lauren CLASSIC FIT JERSEY LONG SLEEVE T SHIRT - Camiseta de manga larga - ink",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 90.00,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/14.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/14_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/14_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/14_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 15,
+        "name": "Polo Ralph Lauren PIMA - Camiseta de manga larga - classic camel heather",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 83.00,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/15.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/15_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/15_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/15_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 16,
+        "name": "Polo Ralph Lauren LONG SLEEVE - Polo - newport navy",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 130.00,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/16.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/16_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/16_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/16_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 17,
+        "name": "Polo Ralph Lauren LONG SLEEVE - Polo - service green heather",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 135.00,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/17.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/17_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/17_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/17_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 18,
+        "name": "Polo Ralph Lauren LUXURY JERSEY POLO SHIRT - Camiseta de manga larga - expedition dune heather",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 170.00,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/18.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/18_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/18_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/18_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 19,
+        "name": "Calvin Klein Jeans LABEL WAFFLE TEE - Camiseta de manga larga - ivory",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 47.95,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/19.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/19_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/19_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/19_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 20,
+        "name": "Tommy Jeans SLIM TURTLENECK TEE - Camiseta de manga larga - grey",
+        "category": "hombre",
+        "subcategory": "camisetasAbrigos",
+        "price": 31.65,
+        "images": [
+          "web/img/productos/Hombre/CamisetasAbrigos/20.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/20_1.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/20_2.webp",
+          "web/img/productos/Hombre/CamisetasAbrigos/20_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 21,
+        "name": "Victoria Hyde LONDON EYES - Reloj - gruen beige",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 39.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/21.webp",
+          "web/img/productos/Hombre/Relojes/21_1.webp",
+          "web/img/productos/Hombre/Relojes/21_2.webp",
+          "web/img/productos/Hombre/Relojes/21_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 22,
+        "name": "Tommy Hilfiger CLASSIC - Reloj",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 119.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/22.webp",
+          "web/img/productos/Hombre/Relojes/22_1.webp",
+          "web/img/productos/Hombre/Relojes/22_2.webp",
+          "web/img/productos/Hombre/Relojes/22_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 23,
+        "name": "Lacoste REPLAY - Cronógrafo",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 189.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/23.webp",
+          "web/img/productos/Hombre/Relojes/23_1.webp",
+          "web/img/productos/Hombre/Relojes/23_2.webp",
+          "web/img/productos/Hombre/Relojes/23_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 24,
+        "name": "BOSS SKYTRAVELLER - Reloj",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 298.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/24.webp",
+          "web/img/productos/Hombre/Relojes/24_1.webp",
+          "web/img/productos/Hombre/Relojes/24_2.webp",
+          "web/img/productos/Hombre/Relojes/24_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 25,
+        "name": "Tommy Hilfiger SOPHISTICATED SPORT - Reloj - silber",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 199.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/25.webp",
+          "web/img/productos/Hombre/Relojes/25_1.webp",
+          "web/img/productos/Hombre/Relojes/25_2.webp",
+          "web/img/productos/Hombre/Relojes/25_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 26,
+        "name": "Calvin Klein GAUGE - Reloj",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 142.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/26.webp",
+          "web/img/productos/Hombre/Relojes/26_1.webp",
+          "web/img/productos/Hombre/Relojes/26_2.webp",
+          "web/img/productos/Hombre/Relojes/26_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 27,
+        "name": "BOSS SKYLINER - Reloj - black",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 279.95,
+        "images": [
+          "web/img/productos/Hombre/Relojes/27.webp",
+          "web/img/productos/Hombre/Relojes/27_1.webp",
+          "web/img/productos/Hombre/Relojes/27_2.webp",
+          "web/img/productos/Hombre/Relojes/27_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 28,
+        "name": "Tommy Hilfiger LEGEND - Cronógrafo - silver blue",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 170.00,
+        "images": [
+          "web/img/productos/Hombre/Relojes/28.webp",
+          "web/img/productos/Hombre/Relojes/28_1.webp",
+          "web/img/productos/Hombre/Relojes/28_2.webp",
+          "web/img/productos/Hombre/Relojes/28_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 29,
+        "name": "Calvin Klein MODERN UNISEX - Reloj",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 135.95 ,
+        "images": [
+          "web/img/productos/Hombre/Relojes/29.webp",
+          "web/img/productos/Hombre/Relojes/29_1.webp",
+          "web/img/productos/Hombre/Relojes/29_2.webp",
+          "web/img/productos/Hombre/Relojes/29_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 30,
+        "name": "Tommy Hilfiger CHRONO_AUTOMATIC - Cronógrafo - blue",
+        "category": "hombre",
+        "subcategory": "relojes",
+        "price": 179.00,
+        "images": [
+          "web/img/productos/Hombre/Relojes/30.webp",
+          "web/img/productos/Hombre/Relojes/30_1.webp",
+          "web/img/productos/Hombre/Relojes/30_2.webp",
+          "web/img/productos/Hombre/Relojes/30_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 31,
+        "name": "Calvin Klein LACE UP - Zapatillas",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 125.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/31.webp",
+          "web/img/productos/Hombre/Zapatillas/31_1.webp",
+          "web/img/productos/Hombre/Zapatillas/31_2.webp",
+          "web/img/productos/Hombre/Zapatillas/31_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 32,
+        "name": "Tommy Hilfiger COURT - Zapatillas",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 89.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/32.webp",
+          "web/img/productos/Hombre/Zapatillas/32_1.webp",
+          "web/img/productos/Hombre/Zapatillas/32_2.webp",
+          "web/img/productos/Hombre/Zapatillas/32_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 33,
+        "name": "Calvin Klein LACE UP - Zapatillas - black",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 139.90,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/33.webp",
+          "web/img/productos/Hombre/Zapatillas/33_1.webp",
+          "web/img/productos/Hombre/Zapatillas/33_2.webp",
+          "web/img/productos/Hombre/Zapatillas/33_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 34,
+        "name": "BOSS CLINT TENN - Zapatillas - white",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 185.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/34.webp",
+          "web/img/productos/Hombre/Zapatillas/34_1.webp",
+          "web/img/productos/Hombre/Zapatillas/34_2.webp",
+          "web/img/productos/Hombre/Zapatillas/34_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 35,
+        "name": "Polo Ralph Lauren MASTERS CRT TOP LACE UNISEX - Zapatillas",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 150.00,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/35.webp",
+          "web/img/productos/Hombre/Zapatillas/35_1.webp",
+          "web/img/productos/Hombre/Zapatillas/35_2.webp",
+          "web/img/productos/Hombre/Zapatillas/35_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 36,
+        "name": "BOSS RHYS - Zapatillas - black",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 159.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/36.webp",
+          "web/img/productos/Hombre/Zapatillas/36_1.webp",
+          "web/img/productos/Hombre/Zapatillas/36_2.webp",
+          "web/img/productos/Hombre/Zapatillas/36_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 37,
+        "name": "Polo Ralph Lauren HERITAGE COURT II LEATHER SNEAKER UNISEX - Zapatillas",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 130.00,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/37.webp",
+          "web/img/productos/Hombre/Zapatillas/37_1.webp",
+          "web/img/productos/Hombre/Zapatillas/37_2.webp",
+          "web/img/productos/Hombre/Zapatillas/37_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 38,
+        "name": "Tommy Hilfiger BASKET CORE - Zapatillas - white",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 98.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/38.webp",
+          "web/img/productos/Hombre/Zapatillas/38_1.webp",
+          "web/img/productos/Hombre/Zapatillas/38_2.webp",
+          "web/img/productos/Hombre/Zapatillas/38_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 39,
+        "name": "Calvin Klein TOP LACE UP - Zapatillas",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 125.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/39.webp",
+          "web/img/productos/Hombre/Zapatillas/39_1.webp",
+          "web/img/productos/Hombre/Zapatillas/39_2.webp",
+          "web/img/productos/Hombre/Zapatillas/39_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 40,
+        "name": "Calvin Klein Jeans CHUNKY CUPSOLE - Zapatillas - black white",
+        "category": "hombre",
+        "subcategory": "zapatillas",
+        "price": 116.95,
+        "images": [
+          "web/img/productos/Hombre/Zapatillas/40.webp",
+          "web/img/productos/Hombre/Zapatillas/40_1.webp",
+          "web/img/productos/Hombre/Zapatillas/40_2.webp",
+          "web/img/productos/Hombre/Zapatillas/40_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 41,
+        "name": "Mango Abrigo clásico - sand",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/41.webp",
+          "web/img/productos/Mujer/Abrigos/41_1.webp",
+          "web/img/productos/Mujer/Abrigos/41_2.webp",
+          "web/img/productos/Mujer/Abrigos/41_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 42,
+        "name": "Salsa Jeans Abrigo corto - gris",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 183.00,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/42.webp",
+          "web/img/productos/Mujer/Abrigos/42_1.webp",
+          "web/img/productos/Mujer/Abrigos/42_2.webp",
+          "web/img/productos/Mujer/Abrigos/42_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 43,
+        "name": "Mango Abrigo clásico - black",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 55.99,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/43.webp",
+          "web/img/productos/Mujer/Abrigos/43_1.webp",
+          "web/img/productos/Mujer/Abrigos/43_2.webp",
+          "web/img/productos/Mujer/Abrigos/43_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 44,
+        "name": "Tommy Jeans COAT - Abrigo clásico - black",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 195.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/44.webp",
+          "web/img/productos/Mujer/Abrigos/44_1.webp",
+          "web/img/productos/Mujer/Abrigos/44_2.webp",
+          "web/img/productos/Mujer/Abrigos/44_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 45,
+        "name": "Tommy Hilfiger BELTED COAT - Abrigo clásico - flint blue",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 263.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/45.webp",
+          "web/img/productos/Mujer/Abrigos/45_1.webp",
+          "web/img/productos/Mujer/Abrigos/45_2.webp",
+          "web/img/productos/Mujer/Abrigos/45_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 46,
+        "name": "Tommy Hilfiger SLIM FIT - Gabardina - beige",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 209.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/46.webp",
+          "web/img/productos/Mujer/Abrigos/46_1.webp",
+          "web/img/productos/Mujer/Abrigos/46_2.webp",
+          "web/img/productos/Mujer/Abrigos/46_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 47,
+        "name": "Tommy Hilfiger HERITAGE SINGLE BREASTED - Gabardina - midnight",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 195.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/47.webp",
+          "web/img/productos/Mujer/Abrigos/47_1.webp",
+          "web/img/productos/Mujer/Abrigos/47_2.webp",
+          "web/img/productos/Mujer/Abrigos/47_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 48,
+        "name": "Tommy Hilfiger LW DOWN FEMININE GLO - Abrigo de plumas",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 229.90,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/48.webp",
+          "web/img/productos/Mujer/Abrigos/48_1.webp",
+          "web/img/productos/Mujer/Abrigos/48_2.webp",
+          "web/img/productos/Mujer/Abrigos/48_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 49,
+        "name": "Calvin Klein Jeans Gabardina - taupe gray",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 174.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/49.webp",
+          "web/img/productos/Mujer/Abrigos/49_1.webp",
+          "web/img/productos/Mujer/Abrigos/49_2.webp",
+          "web/img/productos/Mujer/Abrigos/49_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+
+      {
+        "id": 50,
+        "name": "BOSS CROP TRENCH - Gabardina - open beige",
+        "category": "mujer",
+        "subcategory": "abrigos",
+        "price": 279.95,
+        "images": [
+          "web/img/productos/Mujer/Abrigos/50.webp",
+          "web/img/productos/Mujer/Abrigos/50_1.webp",
+          "web/img/productos/Mujer/Abrigos/50_2.webp",
+          "web/img/productos/Mujer/Abrigos/50_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 51,
+        "name": "Lauren Ralph Lauren GISTAL - Vestido camisero - navy",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 299.95,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/51.webp",
+          "web/img/productos/Mujer/Vestidos/51_1.webp",
+          "web/img/productos/Mujer/Vestidos/51_2.webp",
+          "web/img/productos/Mujer/Vestidos/51_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 52,
+        "name": "Anna Field Vestido de punto",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 44.99,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/52.webp",
+          "web/img/productos/Mujer/Vestidos/52_1.webp",
+          "web/img/productos/Mujer/Vestidos/52_2.webp",
+          "web/img/productos/Mujer/Vestidos/52_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 53,
+        "name": "Pepe Jeans Vestido de tubo - mousse white",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 59.00,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/53.webp",
+          "web/img/productos/Mujer/Vestidos/53_1.webp",
+          "web/img/productos/Mujer/Vestidos/53_2.webp",
+          "web/img/productos/Mujer/Vestidos/53_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 54,
+        "name": "Swing SWING - Vestido de cóctel - navy",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 179.95,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/54.webp",
+          "web/img/productos/Mujer/Vestidos/54_1.webp",
+          "web/img/productos/Mujer/Vestidos/54_2.webp",
+          "web/img/productos/Mujer/Vestidos/54_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 55,
+        "name": "Morgan STRAIGHT MIDI - Vestido camisero - bleu marine",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 70.00,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/55.webp",
+          "web/img/productos/Mujer/Vestidos/55_1.webp",
+          "web/img/productos/Mujer/Vestidos/55_2.webp",
+          "web/img/productos/Mujer/Vestidos/55_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 56,
+        "name": "Lauren Ralph Lauren COTTON BLEND SHIRTDRESS - Vestido camisero - black",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 249.95,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/56.webp",
+          "web/img/productos/Mujer/Vestidos/56_1.webp",
+          "web/img/productos/Mujer/Vestidos/56_2.webp",
+          "web/img/productos/Mujer/Vestidos/56_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 57,
+        "name": "Mango Vestido largo - cremeweiß",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 79.99,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/57.webp",
+          "web/img/productos/Mujer/Vestidos/57_1.webp",
+          "web/img/productos/Mujer/Vestidos/57_2.webp",
+          "web/img/productos/Mujer/Vestidos/57_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 58,
+        "name": "Mango Vestido ligero - dark blue",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 49.99,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/58.webp",
+          "web/img/productos/Mujer/Vestidos/58_1.webp",
+          "web/img/productos/Mujer/Vestidos/58_2.webp",
+          "web/img/productos/Mujer/Vestidos/58_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 59,
+        "name": "Mango Vestido camisero - royal blue",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 45.99,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/59.webp",
+          "web/img/productos/Mujer/Vestidos/59_1.webp",
+          "web/img/productos/Mujer/Vestidos/59_2.webp",
+          "web/img/productos/Mujer/Vestidos/59_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 60,
+        "name": "Next 2-IN-1 - Vestido informal - black",
+        "category": "mujer",
+        "subcategory": "vestidos",
+        "price": 73.00,
+        "images": [
+          "web/img/productos/Mujer/Vestidos/60.webp",
+          "web/img/productos/Mujer/Vestidos/60_1.webp",
+          "web/img/productos/Mujer/Vestidos/60_2.webp",
+          "web/img/productos/Mujer/Vestidos/60_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 61,
+        "name": "BOSS Reloj",
+        "category": "mujer",
+        "subcategory": "relojes",
+        "price": 139.95,
+        "images": [
+          "web/img/productos/Mujer/Relojes/61.webp",
+          "web/img/productos/Mujer/Relojes/61_1.webp",
+          "web/img/productos/Mujer/Relojes/61_2.webp",
+          "web/img/productos/Mujer/Relojes/61_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+      
+      {
+        "id": 62,
+        "name": "Michael Kors SLIM RUNWAY WATCH - Reloj",
+        "category": "mujer",
+        "subcategory": "relojes",
+        "price": 249.95,
+        "images": [
+          "web/img/productos/Mujer/Relojes/62.webp",
+          "web/img/productos/Mujer/Relojes/62_1.webp",
+          "web/img/productos/Mujer/Relojes/62_2.webp",
+          "web/img/productos/Mujer/Relojes/62_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 63,
+        "name": "Victoria Hyde UHR HAMPTON - Reloj - schwarz",
+        "category": "mujer",
+        "subcategory": "relojes",
+        "price": 69.95,
+        "images": [
+          "web/img/productos/Mujer/Relojes/63.webp",
+          "web/img/productos/Mujer/Relojes/63_1.webp",
+          "web/img/productos/Mujer/Relojes/63_2.webp",
+          "web/img/productos/Mujer/Relojes/63_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 64,
+        "name": "Michael Kors SLIM RUNWAY - Reloj",
+        "category": "mujer",
+        "subcategory": "relojes",
+        "price": 169.95,
+        "images": [
+          "web/img/productos/Mujer/Relojes/64.webp",
+          "web/img/productos/Mujer/Relojes/64_1.webp",
+          "web/img/productos/Mujer/Relojes/64_2.webp",
+          "web/img/productos/Mujer/Relojes/64_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 65,
+        "name": "Tommy Hilfiger HENDRIX - Reloj - black",
+        "category": "mujer",
+        "subcategory": "relojes",
+        "price": 144.95,
+        "images": [
+          "web/img/productos/Mujer/Relojes/65.webp",
+          "web/img/productos/Mujer/Relojes/65_1.webp",
+          "web/img/productos/Mujer/Relojes/65_2.webp",
+          "web/img/productos/Mujer/Relojes/65_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 66,
+        "name": "Lacoste ZIANE PLATFORM - Zapatillas",
+        "category": "mujer",
+        "subcategory": "zapatillas",
+        "price": 99.95,
+        "images": [
+          "web/img/productos/Mujer/Zapatillas/66.webp",
+          "web/img/productos/Mujer/Zapatillas/66_1.webp",
+          "web/img/productos/Mujer/Zapatillas/66_2.webp",
+          "web/img/productos/Mujer/Zapatillas/66_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 67,
+        "name": "Calvin Klein Jeans FLATFORM - Zapatillas - triple bright white",
+        "category": "mujer",
+        "subcategory": "zapatillas",
+        "price": 89.95,
+        "images": [
+          "web/img/productos/Mujer/Zapatillas/67.webp",
+          "web/img/productos/Mujer/Zapatillas/67_1.webp",
+          "web/img/productos/Mujer/Zapatillas/67_2.webp",
+          "web/img/productos/Mujer/Zapatillas/67_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 68,
+        "name": "BOSS KIERAN ADAPTIVE - Zapatillas - triple black",
+        "category": "mujer",
+        "subcategory": "zapatillas",
+        "price": 159.95,
+        "images": [
+          "web/img/productos/Mujer/Zapatillas/68.webp",
+          "web/img/productos/Mujer/Zapatillas/68_1.webp",
+          "web/img/productos/Mujer/Zapatillas/68_2.webp",
+          "web/img/productos/Mujer/Zapatillas/68_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 69,
+        "name": "Lauren Ralph Lauren AINSLEY LEATHER SNEAKER - Zapatillas - snow white",
+        "category": "mujer",
+        "subcategory": "zapatillas",
+        "price": 139.95,
+        "images": [
+          "web/img/productos/Mujer/Zapatillas/69.webp",
+          "web/img/productos/Mujer/Zapatillas/69_1.webp",
+          "web/img/productos/Mujer/Zapatillas/69_2.webp",
+          "web/img/productos/Mujer/Zapatillas/69_3.webp"
+        ],
+        "description": "",
+        "featured": true
+      },
+      
+      {
+        "id": 70,
+        "name": "Calvin Klein Jeans CLASSIC CUPSOLE MIX - Zapatillas",
+        "category": "mujer",
+        "subcategory": "zapatillas",
+        "price": 89.95,
+        "images": [
+          "web/img/productos/Mujer/Zapatillas/70.webp",
+          "web/img/productos/Mujer/Zapatillas/70_1.webp",
+          "web/img/productos/Mujer/Zapatillas/70_2.webp",
+          "web/img/productos/Mujer/Zapatillas/70_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 71,
+        "name": "Tommy Hilfiger MINI LOGO UNISEX - Chaquetas bomber - dark night navy",
+        "category": "niños",
+        "subcategory": "chaquetas",
+        "price": 67.95,
+        "images": [
+          "web/img/productos/Niños/Chaquetas/71.webp",
+          "web/img/productos/Niños/Chaquetas/71_1.webp",
+          "web/img/productos/Niños/Chaquetas/71_2.webp",
+          "web/img/productos/Niños/Chaquetas/71_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 72,
+        "name": "Polo Ralph Lauren OUTERWEAR - Sudadera con cremallera - refined navy",
+        "category": "niños",
+        "subcategory": "chaquetas",
+        "price": 130.00,
+        "images": [
+          "web/img/productos/Niños/Chaquetas/72.webp",
+          "web/img/productos/Niños/Chaquetas/72_1.webp",
+          "web/img/productos/Niños/Chaquetas/72_2.webp",
+          "web/img/productos/Niños/Chaquetas/72_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 73,
+        "name": "Chicco OUTERWEAR - Abrigo corto - blue",
+        "category": "niños",
+        "subcategory": "chaquetas",
+        "price": 49.99,
+        "images": [
+          "web/img/productos/Niños/Chaquetas/73.webp",
+          "web/img/productos/Niños/Chaquetas/73_1.webp",
+          "web/img/productos/Niños/Chaquetas/73_2.webp",
+          "web/img/productos/Niños/Chaquetas/73_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 74,
+        "name": "Pepe Jeans KENTON COURT - Zapatillas - white",
+        "category": "niños",
+        "subcategory": "zapatillas",
+        "price": 65.00,
+        "images": [
+          "web/img/productos/Niños/Zapatillas/74.webp",
+          "web/img/productos/Niños/Zapatillas/74_1.webp",
+          "web/img/productos/Niños/Zapatillas/74_2.webp",
+          "web/img/productos/Niños/Zapatillas/74_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      },
+
+      {
+        "id": 75,
+        "name": "Tommy Hilfiger LOGAN UNISEX - Zapatillas",
+        "category": "niños",
+        "subcategory": "zapatillas",
+        "price": 50.95,
+        "images": [
+          "web/img/productos/Niños/Zapatillas/75.webp",
+          "web/img/productos/Niños/Zapatillas/75_1.webp",
+          "web/img/productos/Niños/Zapatillas/75_2.webp",
+          "web/img/productos/Niños/Zapatillas/75_3.webp"
+        ],
+        "description": "",
+        "featured": false
+      }
+  ]
