@@ -4,13 +4,13 @@ Una aplicación web completa de comercio electrónico desarrollada con tecnolog�
 
 #  Capturas de Pantalla
 
-(./screenshots/1.png)
-(./screenshots/2.png)
-(./screenshots/3.png)
-(./screenshots/4.png)
-(./screenshots/5.png)
-(./screenshots/6.png)
-(./screenshots/7.png)
+![alt text](./screenshots/1.png)
+![alt text](./screenshots/2.png)
+![alt text](./screenshots/3.png)
+![alt text](./screenshots/4.png)
+![alt text](./screenshots/5.png)
+![alt text](./screenshots/6.png)
+![alt text](./screenshots/7.png)
 ## 📋 Tabla de Contenidos
 
 - [Características Principales](#-características-principales)
