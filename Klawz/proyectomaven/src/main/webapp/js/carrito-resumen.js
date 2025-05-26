@@ -1297,7 +1297,7 @@ async function enviarPedido(e) {
       return;
     }
 
-    // CORRECCIÓN: Asegurar que la tarjeta tenga número
+    //Asegurar que la tarjeta tenga número
     if (window.selectedPaymentMethod.type === 'tarjeta' && window.selectedPaymentMethod.isNew) {
       if (!window.selectedPaymentMethod.cardNumber) {
         alert('Por favor, ingrese el número de tarjeta');
